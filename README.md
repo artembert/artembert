@@ -1,6 +1,7 @@
 ### Hello!
 
-I am a second year Geoinformatics Ph.D. candidate at St Petersburg University, Russia.
+I am a Frontend Software Engineer
+and 🌍 Geoinformatics Ph.D. candidate at St Petersburg University, Russia.
 
 <!--
 **artembert/artembert** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
