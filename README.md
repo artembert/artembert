@@ -1,7 +1,7 @@
 ### Hello!
 
 I am a Frontend Software Engineer
-and 🌍 Geoinformatics Ph.D. candidate at St Petersburg University, Russia.
+and 🌍 Geoinformatics Ph.D. candidate
 
 <!--
 **artembert/artembert** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
